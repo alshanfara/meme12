@@ -15,7 +15,6 @@
 .label-primary, .btn-primary {
     background-image: linear-gradient(90deg,#252322 0,#252322 10%,#e87b55 51%,#252322 89%,#252322 100%)!important;
     border: 0px solid white;
-    border-radius: 0px!important;
     }
 
 
